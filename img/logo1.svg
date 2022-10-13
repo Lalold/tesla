@@ -1,0 +1,23 @@
+<svg width="94" height="47" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="49" width="96" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_22">
+   <g stroke="null" transform="matrix(0.95777781345778,0,0,1.0077778158448751,0.3832111271752314,49.20388485217734) " id="svg_15">
+    <rect stroke="null" id="svg_17" fill="rgb(100%,100%,100%)" height="100" width="100" y="-76.608042" x="-0.400087"/>
+    <path stroke="null" id="svg_18" fill-rule="evenodd" fill="rgb(20%,62.745098%,81.960784%)" d="m21.138973,-42.842412l11.39844,0l-17.125,31.09375l-11.40234,0l17.1289,-31.09375zm0,0"/>
+    <path stroke="null" id="svg_19" fill-rule="evenodd" fill="rgb(21.568627%,20.392157%,52.156863%)" d="m32.537413,-42.842412l12.30469,0l-17.125,31.09375l-12.30469,0l17.125,-31.09375zm0,0"/>
+    <path stroke="null" id="svg_20" fill-rule="evenodd" fill="rgb(77.254902%,16.862745%,18.823529%)" d="m44.842103,-42.842412l12.25781,0l-17.125,31.09375l-12.25781,0l17.125,-31.09375zm0,0"/>
+    <path stroke="null" id="svg_21" fill-rule="evenodd" fill="rgb(90.196078%,90.196078%,90.588235%)" d="m60.951473,-42.842412l11.4375,0l0.35547,13.98046l7.69922,-13.98046l10.09766,0l0.77734,31.09375l-10.69141,0l0,-14.26172l-7.15625,14.26172l-10.15234,0l0.16406,-13.89454l-7.32422,13.89454l-12.33203,0l17.125,-31.09375zm0,0"/>
+   </g>
+  </g>
+ </g>
+</svg>
